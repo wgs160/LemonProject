@@ -1,8 +1,3 @@
-N-blog
+个人样式库
 ======
-
-N-blog 的 express4.x 版本，代码仅供参考。
-
-```
-npm start
-```
+未完成
